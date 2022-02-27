@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods truth is faithfull in what it speaketh unto sin and death: It giveth it not too bad a name, because truth is justifi'd by him, which is just; therein it hath a crown of life, and shal have, though death like swarms of wasps are round about it. / Written by one called, John Cole-Venman.</title>
+            <author>Cole-Venman, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80101</idno>
+            <idno type="STC">Wing C5096A</idno>
+            <idno type="STC">ESTC R174030</idno>
+            <idno type="EEBO-CITATION">45578269</idno>
+            <idno type="OCLC">ocm 45578269</idno>
+            <idno type="VID">172210</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172210)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2617:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods truth is faithfull in what it speaketh unto sin and death: It giveth it not too bad a name, because truth is justifi'd by him, which is just; therein it hath a crown of life, and shal have, though death like swarms of wasps are round about it. / Written by one called, John Cole-Venman.</title>
+                  <author>Cole-Venman, John.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the yeer, 1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:172210:1" rendition="simple:additions"/>
+            <p>GODS Truth <hi>is faith<g ref="char:EOLhyphen"/>full in what it ſpeaketh unto</hi> Sin <hi>and</hi> Death: <hi>Jt giveth it not too bad a name, becauſe</hi> truth <hi>is juſtifi'd by him, which is juſt; therein it hath a crown of</hi> Life, <hi>and ſhal have, though death like ſwarms of Waſps are reund about it.</hi>
+            </p>
+            <p>Wirtten by one called, <hi>John Cole-Venman.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the yeer, 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:172210:2"/>
+            <p>THere is much talk of Chriſt being a Sa<g ref="char:EOLhyphen"/>viour, without underſtanding what the Soul muſt be ſaved from and unto; the ſoul being under deceit and torment, it ſtandeth in need of truth and reſt; the Saviour by pla<g ref="char:EOLhyphen"/>cing truth and reſt in the ſoul, wil level ſo that none ſhall poſſeſs more then they want, he will firſt level the inward by caſting out the thief-mind, then theſe outward riches will fall into neceſſities poſſeſſion: its the ſouls neceſſity that muſt be joynt-heir with Chriſt in poſſeſſing. Its father hath power to bruiſe the Serpents head and body, which doth with<g ref="char:EOLhyphen"/>hold from neceſſity to its luſt; which luſt or thief-minde is inſtituted by the Serpent to do all wickedneſs, he cauſeth ſome to ſtrain at a gnat and ſwallow a camel, and they do falſly aſſume they ſin not, when ſome of them have many ſlaves and acres of land, houſes, horſes; linnen, wollen, corn, wine, oyl, and flocks of cattel, and all manner of the fruits of the earth, that neceſsitie is kept in ſlaveri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from them. This murderer and thief doth act all evil in ſcorn and contempt of truths u<g ref="char:EOLhyphen"/>nion, which it hath in it ſelf, and it wil fil the ſoul with it ſelf, to the downſal of that young Harlot that doth ſtrain at a gnat; which <hi>gnat</hi> nature hath a luſt in it, and it doth ſwallow all that it can from the ſlave neceſsitie to its ſelf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſtruction; that which is in more haſte for the true Sun for to ſhine, then it haſteth in it ſelf to ſhine, muſt be by its beams conſumed. Its a common thing for the young Harlot to ſay, <hi>Minde the light in thee;</hi> now ſaith Truth;
+<pb n="3" facs="tcp:172210:2"/>thy ly-light muſt be putout, nay, ſaith ſhe, <hi>I am ſent of God to fore-warn thee of evil, and to turn thee to the light.</hi> This falſe lye-light in its coming in exhortations doth aſſume per<g ref="char:EOLhyphen"/>fection therein.</p>
+            <p>Truth-union doth hold ſome ſouls from the mother of Harlots, and her daughters, ſo that their threatning wooing exhortings is all as rubbidge in their way.</p>
+            <p>The yong Harlot doth transform her ſelfe like truths appearance in words, and in ſtrain<g ref="char:EOLhyphen"/>ing at a gnat: there is no ſtraining in truth<g ref="char:EOLhyphen"/>union, the ſtraining is in that which doth dreſs or ſhape its ſelf like truths government, that it may the more bewitch that which can be be<g ref="char:EOLhyphen"/>witched.</p>
+            <p>The yong Harlot falsly loves or luſts for to have all her kindred for to commit adultery with her, calling them harlots and baſtards if they do not.</p>
+            <p>The true Spouſe hath been very often woo<g ref="char:EOLhyphen"/>ed to commit adultery with her, ſhe ſaying, ſhe was the Spouſe of Chriſt, and did loath to commit adultery.</p>
+            <p>The mother of Harlots have many daugh<g ref="char:EOLhyphen"/>ters as bad as her ſelf, all the daughters do fall out one with another, and with their mother, crying, <hi>Harlot, harlot, harlot</hi> Truth knows that ſhe that is a ſhaping her ſelf like it in words, is the beautiful yong Harlot which wil ſtand againſt the union-nature longer in ſome <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouls then others. None that live with God do lodge with her: Them that true union doth hold, they can be bold <hi>all her evills to
+<pb n="4" facs="tcp:172210:3"/>unfold, without being by her power controld.</hi> Her Mother and her Siſters do all cry her downe, ſaying ſhe is not worthy to live; they all hate her for her beauty, becauſe ſhe is almoſt like the Spouſe of Chriſt in words, not in deeds.</p>
+            <p>The yong Harlot can but mend evill old <hi>Adam;</hi> by her exhortations and inſtructi<g ref="char:EOLhyphen"/>ons, and wooings and threatnings, ſhe doth fright ſome unto her obedience, in ſetting them to look to her Ly light in them.</p>
+            <p>This Harlots power is the tree of good and evil: and this is the cauſe why it's called a tree of good and evil; it rejoyceth ſome, and it woundeth others: it ſtarveth ſome, it ſee<g ref="char:EOLhyphen"/>deth others: it giveth ſome too much of the earth and its fruit, and others too little: it giveth ſome the beſt of things, and others the worſt: it maketh ſome great Landlords, and others Slaves: it cauſeth ſickneſs and health to its people: it cauſeth ſome to depart out of the body, and ſome to live its life therein: it cauſeth its ſlave <hi>Neceſsity</hi> to come to its ty<g ref="char:EOLhyphen"/>rants, to ſay with his hat in his hand, <hi>What curious works shall I do for you?</hi> alas poor Ne<g ref="char:EOLhyphen"/>ceſſity, thou haſt a hard Maſter, its not long that he ſhall reigne over thee.</p>
+            <p>At the firſt fall this tree or power did exalt ſome of its fruit-eaters higher then other; ſo that thoſe exalted ones did thieve from the reſt the greateſt part of the earth, and its fruits, &amp; did cauſe them to make Laws which yet are in force by the ſame tree or power, to the oppreſſion of all poor men.</p>
+            <p>This gold and ſilver ticket they cauſed to
+<pb n="5" facs="tcp:172210:3" rendition="simple:additions"/>be quoined in oppoſition to the want of poor men, ſo that they was quite ſhut out of all, un<g ref="char:EOLhyphen"/>leſs they would come to be their ſlaves, and tenants, then they ſhould have ſome of the fruits of the earth, or their ticket of gold or ſilver, or any ticket that was in force.</p>
+            <p>Its ſo yet, that the gold and ſilver ticket are the devils Ticket, and true wanting neceſ<g ref="char:EOLhyphen"/>ſity is Gods ticket, for it ſhall purchaſe of him whatſoever it needeth, one day without the Devils ticket; yet for preſent its ordain<g ref="char:EOLhyphen"/>ed, that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> neceſſity ſo long as its in its enemies country, it ſhould carry its enemies ticket.</p>
+            <p>This was and is contrary to the tyrant, for he made Lawes that they ſhould not have his ticket, or any of the earth, or its fruits, with<g ref="char:EOLhyphen"/>out being his ſlaves: the tyrant ſaid and doth ſay to neceſſity, if thou wilt not be my ſlave thou ſhalt not eat: Now ſaith Neceſ<g ref="char:EOLhyphen"/>ſity, thou haſt ſtolne from me all that thou poſſeſſeſt, that is more then thy Neceſsity wanteſt. Now ſaith the tyrant, I have made a Law for thee, if thou takeſt any thing back from me, thou ſhalt be hanged till thou art dead, and if thou wilt not work for me but go a begging thou ſhalt be whipped Thus is poor Neceſſity the Devils ſlave, unleſs the God of uprightneſs doth take it into his bleſſedneſs; his bleſſedneſs is thus, Needeſt thou truth and reſt, or any of the earth, or its fruits, he will ſupply thee one day without thy death-obedience, for its not to him that death obeyeth.</p>
+            <p>
+               <pb n="6" facs="tcp:172210:4" rendition="simple:additions"/>The young Harlot ſaith, ſhe is Chriſt, God life, light, and all good, when he which is ſo ſavoureth nothing of her, he ſavourelh life unto life, or a clean ſoul.</p>
+            <p>All her inward and outward preachings are uncertain; for they do not give to the ſoul the union-nature of God, but are enemies to it.</p>
+            <p>The young Harlots threatning and exhor<g ref="char:EOLhyphen"/>tings doth evilly reform the Aegyptians mindes, but its righteouſneſs that muſt lead them to <hi>Canaan,</hi> not anie thing of that mind ſhall enter therein, becauſe its Reformation maketh nothing but lies.</p>
+            <p>When the tree [or power] of life ſhall give the ſoul its word-conjunction, then this tree or power of life goeth forth in Miniſtra<g ref="char:EOLhyphen"/>tion to fulfil its words effect, then down go<g ref="char:EOLhyphen"/>eth this tree which is good and evil in its ſelf, to its ſelf, and it muſt be a priſoner to the tree of life, then all thoſe ſouls that are its ſlaves ſhall go free: So ſure as God ever did an<g ref="char:EOLhyphen"/>ſwer any expectation of his promiſe made, ſo ſure he will anſwer the expectation of his promiſe now made to ſome ſouls that have received of meaſure of his minde.</p>
+            <p>The young Harlot and her children doth ſcorn to own their kindred, they ſcorn to ſay Grand-mother, Mother, Siſter, Aunt, Coſen, but do call Whores, Harlots and Baſtards.</p>
+            <p>If any of her kindred do lack <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood or rayment, ſhe is no more free of her ſuperflui<g ref="char:EOLhyphen"/>ty then anie of her kindred are. Some of her next Siſters are more kinder to all the
+<pb n="7" facs="tcp:172210:4" rendition="simple:additions"/>kindred then ſhee; for they have often woo<g ref="char:EOLhyphen"/>ed the Grandmother for her Grand children, and for their young ſiſter, telling her, Our ſiſter and her children are the greateſt ſuffer<g ref="char:EOLhyphen"/>rers for <hi>Chriſt</hi> on earth: the old Harlot an<g ref="char:EOLhyphen"/>ſwers, It's not ſo, they are diſobedient to me and <hi>Chriſt,</hi> yet being much wooed ſhe lets ſome of them go.</p>
+            <p>This Harlot appeareth where the <hi>Divine Nature</hi> doth, and doth ſhape it ſelf as neere it as it can in all its appearances: if I meet with this <hi>Harlot,</hi> ſhe loathes mee, becauſe I do not commit <hi>Adultery with her,</hi> ſhe ſaying, <hi>That I will be made to do that which I call A<g ref="char:EOLhyphen"/>dultery:</hi> She hath many hangers on her that would be very much falſly refreſhed if that ſhe would let them commit <hi>Adultery</hi> with her in her <hi>ſecret chamber.</hi>
+            </p>
+            <p>Shee hath many that were once of her bo<g ref="char:EOLhyphen"/>die, that do now grieve her, yet they are not eſpouſed to <hi>Chriſt.</hi> There are ſome of her falſly reformed Kindred, that love her for her beauty, that makes the <hi>Harlot</hi> proud. Some do think ſhe is not ſent of God, but do verie much diſturb her in her adultery, in tormen<g ref="char:EOLhyphen"/>ting her by her mothers and ſiſters power, &amp; ſhee anſwers them with the like, though ſelf-righteouſneſs cannot ſee it.</p>
+            <p>
+               <hi>God tormenteth no ſoul, but bringeth the tor<g ref="char:EOLhyphen"/>memtore into ſubjection to him, and delivereth is to himſelf: The cormentors are evill Angells, that do not carry fleth, but do govern ſome ſoul<g ref="char:EOLhyphen"/>eſſences by ingrafting their nature in them to do what they pleaſe, unleſs the redeeming An<g ref="char:EOLhyphen"/>gels
+<pb n="8" facs="tcp:172210:5" rendition="simple:additions"/>do prevents by their ingrafting their nature; which nature it all goodneſs and true ſtrength, without is the ſoul is dead. I do not ſay the moſt beautiful Harlot is the moſt abomination of the earth, but the will be when the is caſt out of thoſe ſouls that are to be the firſt fruits to the redeemer; for preſent her mother, and ſome of her elder danghters under her, are the moſt obomination of the earth, yet their mother doth keep all of them in ſubjection to her as much as she can.</hi>
+            </p>
+            <p>
+               <hi>When the mother is caſt downe, the daughters will ſtrive who shall be greateſt, and this strife will be till all be down, but the youngeſt ſiſter then the will be the abomination of the earth, &amp; will rule over all ſouls that are not eſpouſed to Chriſt, the will be the laſt Harlot that shall adulterate the ſoul.</hi>
+            </p>
+            <p>This is verie little minded <hi>to wit,</hi>
+               <q>The redeeming Angels have a greater mini<g ref="char:EOLhyphen"/>ſtration on the evil Angels to ſubject them, then they have on their captives to redeem them.</q>
+            </p>
+            <p>
+               <hi>The young Harlot ſpeaks of redemption and ſubjection, and knowes not where the true power placeth either.</hi>
+            </p>
+            <p>
+               <hi>The true Angels act is redemption to the ſoul, and ſubjection to the evill one that doth ingraft his ſin againſt the ſoul Angell or Eſsence.</hi>
+            </p>
+            <p>
+               <hi>The young Harlot doth ſpeak much againſt the carnal Libertine called</hi> Ranter, <hi>ſome of them are now her Proſelytes.</hi>
+            </p>
+            <p>
+               <hi>Where that loathſome, filthy Harlor called Ranter, deceived one, thee will thouſands, when
+<pb n="9" facs="tcp:172210:5" rendition="simple:additions"/>the is caſt one of thoſe ſouls, that are to be the first fruits to redemption.</hi>
+            </p>
+            <p>
+               <hi>The true Sponſe shall very much rejoyce in being alone with Christ.</hi>
+            </p>
+            <p>
+               <hi>The young Harlot, and ſome of her ſiſters do ſay, they deny ſelf, they being, but ſelf cannot do it: When Chriſt cameth to them, he will shew them that neither they nor the ſoul can do ſo; nothing but him can deny ſelf, the poor ſoul can do no<g ref="char:EOLhyphen"/>thing; its like a dead thing carryed from death to life. When the breath of life shall breath on the ſoul, ſo that it doth conſume all the breath of death that was there, then it may be ſaid of a truth there is a living ſoul.</hi>
+            </p>
+            <p>
+               <hi>As ſome ſouls now are, they are part in life, part in death, yet they go not forth in the true powers miniſtry, till they be as lively as the pow<g ref="char:EOLhyphen"/>er of life, then they have its word-conjunction, till then the ſoul it a middle nature betwixt the oppreſſor and the redeemer.</hi>
+            </p>
+            <p>
+               <hi>Bleſſed is that ſoul that hath Gods look to ſee what is his, els all is vanity.</hi>
+            </p>
+            <p>
+               <hi>Man in his beſt estate in being governed by the evil Angels, is worſe then vanity: for whom they bleſſe, in the event it doth prove the greateſt curſe.</hi>
+            </p>
+            <p>
+               <hi>Vanity as it ſtandeth out of vexation of mind in this or that, ſo that it doth not abuſe any in the inward principle, or outward things, that do belong to its or their neceſsityes. Sure eternity is neer to this vanity, and will bring a conſum<g ref="char:EOLhyphen"/>mation on it ſuddenly. Then to the wonderment of all perishers, eternity will appear with an ar<g ref="char:EOLhyphen"/>my of ſouls with its word in their mouths, which
+<pb n="10" facs="tcp:172210:6"/>power of eternity will effect in their ſpeaking: Our fathers hoſt when they appear, no Beelzebub can hold up their armies againſt them; no evill angels can ſtand unſubjected before them: no cap<g ref="char:EOLhyphen"/>tives will they make afraid of them, but the evill Angels that are not in flesh will ſo far as they can ingraft feare in oppoſition to their ſoules re<g ref="char:EOLhyphen"/>demption. Theſe belzebubs, make their own people afraid of one another, and of the lover of their ſoules. At the firſt, theſe belzebubs were all as one in their firſt fallen union, and ſo did continue a ſpace of time, but at the laſt they did fall out one with another, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id raiſe their creation in ar<g ref="char:EOLhyphen"/>myes, and did cauſe them to fight: who should have moſt of the earth and its fruits, for their falſe right; as the length of time theſe belzeebubs will Joyne againe in their firſt fallen union, at which shall ſtumble every one: ſo far as they ſtand out of true union. They will cauſe all their people to a<g ref="char:EOLhyphen"/>gree as one, to make war againſt the lamb. The young harlots head it diſtinct from her body, and it doth commonly commit adultery in a more ſecre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> manner then her body doth know of; her heads ſe<g ref="char:EOLhyphen"/>creſie will be the height of abomination when it shall come forth in its practice, it will blaſt all deceit but itſelf deceit, and will incompaſs all ſouls that are not eſpouſed to Chriſt.</hi>
+            </p>
+            <p>
+               <hi>This harlot is in ſome ſouls that God wil have to be his firſt fruits.</hi>
+            </p>
+            <p>
+               <hi>When this harlots power shall receiue all bolze<g ref="char:EOLhyphen"/>bubs into conjunction with it.</hi>
+            </p>
+            <p>
+               <hi>As it was at the firſt begining of the fall: then thee will be the head of the deuils captives in flesh the evil one will dreſs and shape her ſo that none shall know her but gods light.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:172210:6"/>
+               <hi>Nothing can ſee but light, nothing can live but life; nothing can love but love nothing can a<g ref="char:EOLhyphen"/>bide Chriſts coming, but the ſoul; if it hath any thing in it that is not as upright as Chriſt, that shall not abide there.</hi>
+            </p>
+            <p>
+               <hi>This young harlot doth hang forth a ſigne, and deth ſweep before her dore, that makes her very much reſpected by her devout kindred: thee will as much as shee can furnish her houſe with that that is like trve good, whereby shee may invite all that paſs by her to come and feaſt with her, in<g ref="char:EOLhyphen"/>ward and outward Idolatryes, thee Calling them by the name of trve goodneſſe; she is alwayes aſ<g ref="char:EOLhyphen"/>ſisted by the father of her intreſt to worke her de<g ref="char:EOLhyphen"/>ſigne againſt the ſoul, and trve union in it; shee and ſome of hee ſisters are the theiues that goe be<g ref="char:EOLhyphen"/>fore Chriſt with their miniſtryes, in biding men looke to them to be an example or pattern This harlots nature is ſo proud, ſaying shee Rules in heaven and hell: its but her own fathers heaven and hell that shee can or ever muſt live in.</hi>
+            </p>
+            <p>
+               <hi>For ever, all falſe mindes shall be shut cut of the hoaven of heavent.</hi>
+            </p>
+            <p>
+               <hi>Thus ſaith truth, truſt not him that would be truſted, till his ſoul is aſcended into the holy angels word and pewer, in conjunction to redeem from deceit, torment and deſtruction.</hi>
+            </p>
+            <p>
+               <hi>He that hath an ear to hear cannot but hear.</hi>
+            </p>
+            <p>
+               <hi>When nature hath receiued its Change, it will not be tyed unto any Crab-tree neither will it that foreſt range, where nothing but crab-trees g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w, becauſe every thing that it meeteth withall there, its the ſouls ſoe.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:172210:7"/>
+               <hi>The decei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er doth aſsume a ripeneſs in the ſoul, in oppoſition to righteouſnes, and all harlots are acters theirin to adulterate the ſoul; when the beauty full harlot is caſt out of ſome ſouls, and no<g ref="char:EOLhyphen"/>thing but Chriſt there, then his miniſry is a clean sw eeper of ſouls and will bind all divells that did foul them in the inward principall, in giuing ſome a mind to inſlaue the neceſsity from its proper right.</hi>
+            </p>
+            <p>
+               <hi>Many harlots haue ſpoken againſt the beaſt, ſay<g ref="char:EOLunhyphen"/>ing they were ſent from God, but he would not be<g ref="char:EOLhyphen"/>leiv them, but keeps them in ſubjection, and shal do till Chriſt hath his moſt powerfull miniſtery in for<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, thou the beaſt and all harlots and falſe prophets shall joyn with him that will drag them along to fight againſt the lamb and his army.</hi>
+            </p>
+            <div type="part">
+               <p>READER, its the true ſpirits ſpy-right mind that gives life to word, And makes knowne what the 24 Letters do afford, Either in the ſingle letter, or in the compacted word.</p>
+               <p>The Lord cometh to confound all mens talk, becauſe when they talk they do not un<g ref="char:EOLunhyphen"/>derſtand name or nature which of they talk. The ſpi-right of truth is the confounder. Whoſoever hath the ſpi-right minde, that ſhal not be confounded. There is a great deal of talk of taking God his name in vain: all do take his name in vain, but the ſpi-right mind in men, which ſeeth all vanity in them.
+<pb n="13" facs="tcp:172210:7"/>The unfaln Angels, will have the government of vailed ſoul from the deceit which they are vailed with, by ſubjecting of the deceiver, to have no freewil to deceiv or deſtroy, but to be<g ref="char:EOLhyphen"/>come their foot-ſtool. God doth cleanſe away the evell minde, then he ſpeaks into the ſoul &amp; it receiveth him. God will have all cleanſed before him, as he is clean. The body of man is a Figure; the ſoul in it is a ſub<g ref="char:EOLhyphen"/>ject or eſſence, carrying or bearing the body about. This ſubject is to be no ſubject to that that gives it any ſelf carnall minde, or ſub<g ref="char:EOLhyphen"/>ject to any other affliction; it is to be a ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to life, and not ſubject to death. When the unſallen power hath raiſed it by his ſpi-right mind up into himſelf, then man is in the eter<g ref="char:EOLhyphen"/>nal nature: There is the unfallen undeceiuer, and the fallen Deceiuer, and the fallen deceived; theſe are diſtinct one-from an<g ref="char:EOLhyphen"/>other. The undeceiver is Miniſter of his ſpi<g ref="char:EOLhyphen"/>right to the ſoul, that lieth under the alter or carnal minde; which ſpi-right in it being ſet up, doth ſee or ſpie all that is periſhing, and that which is everlaſting.</p>
+               <p>The Lord wil have nothing to worſhip him but the ſpi-right in the ſoul, which doth worſhip him diſcerning what it doth, the man call'd Chriſtreceivd the ſpi-right without mea<g ref="char:EOLunhyphen"/>ſure into his ſoul, which did ſpi-right-to all truth and lyes; therefore it was ſaid, <hi>the God<g ref="char:EOLhyphen"/>head in him dwelt bodily.</hi>
+               </p>
+               <p>There is but one miniſter of the ſpi-right into men, which doth by its miniſtry diſco<g ref="char:EOLhyphen"/>ver <hi>all Babell</hi> in them to its ſelf, within its ſelf in them.</p>
+               <p>
+                  <pb n="14" facs="tcp:172210:8"/>Nothing in man can receive the ſpi-right mind, but the ſoul, it being cleanſed of all that is contrary to it, it receiveth ſaith in God, or ſpi-right of God, which is the ſin<g ref="char:EOLhyphen"/>gle eye, everlaſting truth. The Father of the ſpi-right minde and ſoule will purge out the carnal mind, and let nothing inhabit in his kingdom but ſpi-right.</p>
+               <p>Thus ſaith the ſpi-right that doth ſpy, all truth and all lyes in men, or in that power that is in combination to deceive his own whole creation, that liveth within his own inclination; he cannot deceive the ſpye, for in it thore muſt live no ly, or inclination to ly, for it doth a ly defie, ſaying; thou ſhalt be reprobated for ever, never to live in uni<g ref="char:EOLhyphen"/>on with God the true ſpi-right to all falſe, no ſpie-right or ſeer of truth, which is the ſon of perdition, that would be prying into all that the ſpi-right ſaith, that he may be the neareſt likeneſs as he can be to truth, cal<g ref="char:EOLhyphen"/>ling himſelf ſpi right, when that he doth abominate the true ſpi-right that doth be<g ref="char:EOLhyphen"/>hold him in all his actions, then he is in rage and madneſs, and would not loſe his cloke. The ſpi-right mind ſaith, all in the ſoul but me is a reprobate: I do ſee with my ſingle eye into thee, whoſoever thou be; this is no myſtery to the true ſpy; but it is unto the ly, that doth wonder and periſh eternally. All that ever did wonder, was and is the repro<g ref="char:EOLhyphen"/>bate at his ſelf, and at the everlaſting truth. The ſpi-right ſeeth all things and there is no new thing to it.</p>
+               <p>
+                  <pb n="15" facs="tcp:172210:8"/>There is a great deceit in the interpretation of this ſaying, <hi>no new thing under the ſun.</hi> Some ſay, all things ever were as they are, and that is the fool that doth expect any change in the world; one generation goeth, and another cometh, and ſo it will be for e<g ref="char:EOLhyphen"/>ver, as it is now with men, living as they do, in all manner of wickedneſs. There is a truth in that ſaying, but for this interpre<g ref="char:EOLhyphen"/>tation; it is not of the ſpi-right of truth; for the ſpi-right ſaith, that as darkneſſe doth a<g ref="char:EOLhyphen"/>bound in men, ſo that the light is not in them. Thus ſaith the ſpi-right, Light ſhal ſo abound in men, that darkneſſe ſhal not be in them. The ſpi-right is true all men are lyers.</p>
+               <p>There are two ſowers, two ſeeds, one ground. The true ſower is the ſower of the ſpi-right mind into the ſoul. The falſe ſower is the cumberer of the ſoul or ground with a falſe conception of a carnal mind, having in it the falſe ſowers inclination to all manner of his evils. The carnal mind, it is the bond-Woman that muſt be caſt out of the ſoul; which ſoul is to be the free-Woman, when ſhee hath received the ſpi-right, without a<g ref="char:EOLhyphen"/>ny darkneſs in her. Then the ſoul doth not groan in the ſtrange wilderneſs of ſin, but is ſet free into Eternity, where nothing but ſpi-right ſhall inhabit; there ſhee is caught up into the Heaven of Heavens out of ſin his ſight, which once with her did fight.</p>
+               <p>There is God ſpi-right.</p>
+               <p>
+                  <pb n="16" facs="tcp:172210:9"/>And after the ſoul bath received the ſpi-right mind into it, and the carnal mind done a<g ref="char:EOLhyphen"/>way, then there is ſoul ſpi-right that ſeeth God it being the life of faith that it liveth, which is one with God in all things, ſeeing him face to face, without any ſhame or diſ<g ref="char:EOLhyphen"/>grace.</p>
+               <p>There <hi>is a ſavour of death unto death,</hi> which muſt be aſhamed of his ſavouring of death, becauſe the Lord wilraign over the wicked nature: The wicked nature never did ſa<g ref="char:EOLhyphen"/>vour truth, nor never ſhal; the righteous nature never did ſavour the wicked nature, nor never will: It is a clean ſoul that God doth ſavour with his true mind, which is ſpi-right, or diſcern right, or ſee right with the ſingle eye which hath in its ſelf all light.</p>
+               <p>It is God the Father of life and light, which doth ſpi-right of all things, for there is nothing out of his ſight.</p>
+            </div>
+            <byline>by J.C.V.</byline>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:172210:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
